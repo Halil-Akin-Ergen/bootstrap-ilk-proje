@@ -1,0 +1,20 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.hll {
+    margin: 0%;
+    margin-bottom: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: gold;
+}
+
+a:hover {
+    color: white;
+}
